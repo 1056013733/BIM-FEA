@@ -60,4 +60,6 @@ All processes, inputs, and outputs will be explicitly displayed in the console. 
 
 ### Demonstration
 
-![Automated Workflow Demonstration](docs/assets/video.gif)
+> **Note:** The demonstration video is roughly 90MB, which exceeds GitHub's size limit for inline image previews.
+> 
+> 👉 **[Click here to view or download the Demonstration Video (video.gif)](docs/assets/video.gif)**
