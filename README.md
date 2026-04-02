@@ -61,5 +61,5 @@ All processes, inputs, and outputs will be explicitly displayed in the console. 
 ### Demonstration
 
 > **Note:** The demonstration video is roughly 90MB, which exceeds GitHub's size limit for inline image previews.
-> 
-> 👉 **[Click here to view or download the Demonstration Video (video.gif)](docs/assets/video.gif)**
+>
+> **[Click here to view or download the Demonstration Video (video.webm)](docs/assets/video.webm)**
