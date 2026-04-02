@@ -1,0 +1,4 @@
+﻿"case_name","elements","nodes","cpu_sec","elapsed_sec","last_step"
+"coarse","12","13","108.719","121.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"
+"medium","20","21","111.594","122.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"
+"fine","24","25","114.297","126.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"

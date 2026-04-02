@@ -1,0 +1,32 @@
+{
+  "rc_cyclic_primary": {
+    "dataset": "PEER Structural Performance Database",
+    "specimen_id": "peer_rect_thom94_d3",
+    "display_name": "Thomsen and Wallace 1994, D3",
+    "metadata_url": "http://nisee.berkeley.edu/spd/servlet/display?format=html&id=211",
+    "force_displacement_url": "http://depts.washington.edu/columdat/rectcol/txfiles/thom94d3.txt",
+    "notes": "Rectangular RC cantilever column with cyclic force-displacement data and detailed geometry/material metadata."
+  },
+  "rc_properties_table": {
+    "dataset": "PEER Structural Performance Database",
+    "specimen_id": "peer_rectangular_properties_all",
+    "display_name": "All rectangular column properties",
+    "metadata_url": "http://nisee.berkeley.edu/spd/search.html",
+    "properties_url": "http://nisee.berkeley.edu/spd/rectangular_properties.txt",
+    "notes": "Bulk property table used to cross-check specimen metadata and select additional RC benchmarks."
+  },
+  "composite_primary": {
+    "dataset": "Steel-Concrete Composite Column Database",
+    "specimen_id": "src_c_pbc_bulk",
+    "display_name": "SRC C+PBC bulk database",
+    "csv_url": "https://raw.githubusercontent.com/denavit/Composite-Column-Database/master/SRC_C%2BPBC.csv",
+    "notes": "Steel-reinforced concrete composite beam-column/column database for composite-side validation."
+  },
+  "composite_reference_scripts": {
+    "dataset": "Steel-Concrete Composite Column Database",
+    "specimen_id": "denavit_analysis_scripts",
+    "display_name": "Repository analysis scripts listing",
+    "repo_url": "https://github.com/denavit/Composite-Column-Database/tree/master/analysis_scripts",
+    "notes": "Reference analysis utilities from the public repository."
+  }
+}

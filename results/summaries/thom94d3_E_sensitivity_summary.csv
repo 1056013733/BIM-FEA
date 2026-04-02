@@ -1,0 +1,6 @@
+﻿"case_name","out_file","cpu_sec","elapsed_sec","last_step"
+"thom94d3_E_m20","thom94d3_E_m20_2.out","33.734","122.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"
+"thom94d3_E_m10","thom94d3_E_m10_2.out","34.781","122.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"
+"thom94d3_E_base","thom94d3_E_base2.out","35.422","123.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"
+"thom94d3_E_p10","thom94d3_E_p10_2.out","34.984","121.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"
+"thom94d3_E_p20","thom94d3_E_p20_2.out","34.703","121.000","*** LOAD STEP   787   SUBSTEP     6  COMPLETED.    CUM ITER =   5381"

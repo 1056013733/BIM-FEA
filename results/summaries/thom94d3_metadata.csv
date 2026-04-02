@@ -1,0 +1,9 @@
+﻿field,value,units
+specimen,Thomsen and Wallace 1994 D3,
+B,152.4,mm
+H,152.4,mm
+L,596.9,mm
+fc,71.2,MPa
+axial_load,331,kN
+cover_parallel_or_perpendicular,44.5,mm
+history_points,787,count

@@ -1,0 +1,26 @@
+# ANSYS generated files
+*.err
+*.out
+*.log
+*.rst
+*.db
+*.emat
+*.esav
+*.osav
+*.r00*
+*.mntr
+*.lock
+*.DSP
+*.ldhi
+
+# Temporary run directories
+simulations/runs/
+.ansys_appdata/
+
+# Data directories (ignore raw downloads, processed data is tracked or ignored based on preference, let's track processed, ignore raw)
+data/raw/
+
+# Python caches
+__pycache__/
+*.pyc
+

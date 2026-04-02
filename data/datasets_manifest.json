@@ -1,0 +1,36 @@
+{
+  "datasets": [
+    {
+      "id": "peer_spd",
+      "title": "PEER Structural Performance Database",
+      "type": "website",
+      "url": "https://peer.berkeley.edu/spd",
+      "fit": "best_rc_cyclic",
+      "notes": "RC column cyclic database with geometry, reinforcement, loading setup, and force-displacement histories."
+    },
+    {
+      "id": "composite_column_database",
+      "title": "Steel-Concrete Composite Column Database",
+      "type": "website",
+      "url": "https://mark.denavit.me/Composite-Column-Database/",
+      "fit": "best_composite_strength",
+      "notes": "Composite column and beam-column database with specimen-level metadata and experimental response fields."
+    },
+    {
+      "id": "composite_beams_database",
+      "title": "Composite Beams Database",
+      "type": "dataset",
+      "url": "https://zenodo.org/records/4423351",
+      "fit": "supplemental_composite",
+      "notes": "Composite beam test database with downloadable spreadsheets."
+    },
+    {
+      "id": "epfl_cyclic_column_base",
+      "title": "Experimental data of dissipative embedded column base connections tested under cyclic lateral loading",
+      "type": "dataset",
+      "url": "https://zenodo.org/records/4244684",
+      "fit": "supplemental_cyclic",
+      "notes": "Downloadable cyclic response spreadsheets and visual records."
+    }
+  ]
+}
