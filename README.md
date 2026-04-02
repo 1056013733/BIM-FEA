@@ -1,4 +1,4 @@
-﻿## Public reproduction package
+## Public reproduction package
 
 This folder collects public benchmark datasets and helper scripts for reproducing the validation workflow described in the manuscript.
 
@@ -60,4 +60,4 @@ All processes, inputs, and outputs will be explicitly displayed in the console. 
 
 ### Demonstration
 
-![Automated Workflow Demonstration](video.gif)
+![Automated Workflow Demonstration](docs/assets/video.gif)
